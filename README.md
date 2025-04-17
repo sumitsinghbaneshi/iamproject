@@ -1,2 +1,2 @@
 # iamproject
-In this repo I'll add all the automation i have created like windows automation script and others access management project and script to detect a threat
+In this repository, I'll add all the automation I've created, such as Windows automation scripts, access management projects, and threat detection scripts.
